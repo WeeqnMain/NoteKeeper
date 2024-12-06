@@ -1,10 +1,9 @@
 import { Button } from "@chakra-ui/react";
 
-export default function DeleteNotes({ onDeleteAll }){
+export default function DeleteAllNotes({ onDeleteAll }){
 
     const onClick = () => {
         onDeleteAll();
-        console.log("clicked");
     }
 
     return(
