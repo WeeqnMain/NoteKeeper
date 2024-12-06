@@ -1,6 +1,8 @@
 # NoteKeeper
 A simple web application with which you can store your notes, delete them, and find the ones you want using filters
 
+This was done using ASP.NET Core & React, Tailwindcss, ChakraUI
+
 ## Table of Contents
 
 - [Installation](#installation)
