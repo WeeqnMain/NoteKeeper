@@ -17,11 +17,11 @@ This was done using ASP.NET Core & React, Tailwindcss, ChakraUI
 
 - Move to project folder:
   
-	```cd WeatherForecastApp```
+	```cd NoteKeeper/frontend/note-keeper```
 
 - Install dependencies:
 
-  ```npm install```
+  	```npm install```
 
 - Start docker and run:
 
